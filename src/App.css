@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin: auto;
+}
+
+body {
+  background-color: antiquewhite;
 }
 
 .App-logo {
@@ -29,4 +34,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.btn-group {
+  text-align: center;
 }
